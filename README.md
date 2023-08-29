@@ -15,7 +15,7 @@
 * Check real-time connection
   - Lamb can check connection second by second and sho you its log . so you can check when network has been disconnect and re connect.
 * IP checker  
-  - Lamb can also che any ip addresses to find usful values from it.
+  - Lamb can also che any ip addresses to find useful values from it.
 
 ## How To Use
 
