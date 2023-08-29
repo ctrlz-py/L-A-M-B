@@ -60,7 +60,6 @@ This software uses the following open source packages:
 
 ---
 
-> [amitmerchant.com](https://www.amitmerchant.com) &nbsp;&middot;&nbsp;
 > GitHub [@ctrlz-py](https://github.com/ctrlz-py) &nbsp;&middot;&nbsp;
 > Telegram [@Ctrlz_team](https://t.me/Ctrlz_team)
 
